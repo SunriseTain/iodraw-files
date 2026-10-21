@@ -69,6 +69,9 @@
         <mxCell id="zF3MtkS8yYWLAlWBzxmK-28" value="是否1KB数据？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="640" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="zF3MtkS8yYWLAlWBzxmK-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zF3MtkS8yYWLAlWBzxmK-28" target="zF3MtkS8yYWLAlWBzxmK-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
