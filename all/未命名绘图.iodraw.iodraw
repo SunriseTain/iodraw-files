@@ -31,17 +31,11 @@
         <mxCell id="zF3MtkS8yYWLAlWBzxmK-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zF3MtkS8yYWLAlWBzxmK-13" target="zF3MtkS8yYWLAlWBzxmK-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zF3MtkS8yYWLAlWBzxmK-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zF3MtkS8yYWLAlWBzxmK-13" target="zF3MtkS8yYWLAlWBzxmK-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="zF3MtkS8yYWLAlWBzxmK-13" value="是否升级？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="585" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zF3MtkS8yYWLAlWBzxmK-15" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="595" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zF3MtkS8yYWLAlWBzxmK-17" value="执行APP" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
