@@ -142,8 +142,14 @@
         <mxCell id="zF3MtkS8yYWLAlWBzxmK-50" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="700" y="598" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zF3MtkS8yYWLAlWBzxmK-51" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="715" y="478" width="50" height="30" as="geometry" />
+        <mxCell id="zF3MtkS8yYWLAlWBzxmK-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zF3MtkS8yYWLAlWBzxmK-51" target="zF3MtkS8yYWLAlWBzxmK-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zF3MtkS8yYWLAlWBzxmK-51" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="730" y="490" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zF3MtkS8yYWLAlWBzxmK-53" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="810" y="438" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
