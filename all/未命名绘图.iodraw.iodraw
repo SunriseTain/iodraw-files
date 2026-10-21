@@ -66,7 +66,7 @@
         <mxCell id="zF3MtkS8yYWLAlWBzxmK-26" value="接收数据" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zF3MtkS8yYWLAlWBzxmK-28" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zF3MtkS8yYWLAlWBzxmK-28" value="是否1KB数据？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="640" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
