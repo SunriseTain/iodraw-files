@@ -78,13 +78,12 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="570" y="625" />
-              <mxPoint x="570" y="547" />
-              <mxPoint x="591" y="547" />
+              <mxPoint x="570" y="517" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zF3MtkS8yYWLAlWBzxmK-31" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="650" width="120" height="60" as="geometry" />
+        <mxCell id="zF3MtkS8yYWLAlWBzxmK-31" value="储存数据" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="595" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
