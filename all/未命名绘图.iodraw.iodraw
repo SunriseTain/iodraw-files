@@ -31,9 +31,6 @@
         <mxCell id="zF3MtkS8yYWLAlWBzxmK-11" value="APP启动" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zF3MtkS8yYWLAlWBzxmK-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zF3MtkS8yYWLAlWBzxmK-13" target="zF3MtkS8yYWLAlWBzxmK-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="zF3MtkS8yYWLAlWBzxmK-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zF3MtkS8yYWLAlWBzxmK-13" target="zF3MtkS8yYWLAlWBzxmK-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -44,9 +41,6 @@
         </mxCell>
         <mxCell id="zF3MtkS8yYWLAlWBzxmK-13" value="是否升级？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="585" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="zF3MtkS8yYWLAlWBzxmK-15" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="595" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zF3MtkS8yYWLAlWBzxmK-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zF3MtkS8yYWLAlWBzxmK-21" target="zF3MtkS8yYWLAlWBzxmK-24">
           <mxGeometry relative="1" as="geometry" />
@@ -66,11 +60,22 @@
         <mxCell id="zF3MtkS8yYWLAlWBzxmK-26" value="接收数据" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="510" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="zF3MtkS8yYWLAlWBzxmK-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zF3MtkS8yYWLAlWBzxmK-28" target="zF3MtkS8yYWLAlWBzxmK-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zF3MtkS8yYWLAlWBzxmK-28" value="是否1KB数据？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="640" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zF3MtkS8yYWLAlWBzxmK-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zF3MtkS8yYWLAlWBzxmK-28" target="zF3MtkS8yYWLAlWBzxmK-26">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="680" />
+              <mxPoint x="640" y="547" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zF3MtkS8yYWLAlWBzxmK-31" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
