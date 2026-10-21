@@ -88,8 +88,11 @@
         <mxCell id="zF3MtkS8yYWLAlWBzxmK-31" value="储存数据" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="595" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zF3MtkS8yYWLAlWBzxmK-34" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="445" width="80" height="80" as="geometry" />
+        <mxCell id="zF3MtkS8yYWLAlWBzxmK-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zF3MtkS8yYWLAlWBzxmK-34" target="zF3MtkS8yYWLAlWBzxmK-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zF3MtkS8yYWLAlWBzxmK-34" value="是否接收完毕？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="460" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
