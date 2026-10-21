@@ -60,19 +60,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zF3MtkS8yYWLAlWBzxmK-24" value="确定数据源" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zF3MtkS8yYWLAlWBzxmK-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zF3MtkS8yYWLAlWBzxmK-26" target="zF3MtkS8yYWLAlWBzxmK-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zF3MtkS8yYWLAlWBzxmK-26" value="接收数据" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zF3MtkS8yYWLAlWBzxmK-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zF3MtkS8yYWLAlWBzxmK-28" target="zF3MtkS8yYWLAlWBzxmK-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zF3MtkS8yYWLAlWBzxmK-28" value="是否1KB数据？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="585" width="80" height="80" as="geometry" />
+          <mxGeometry x="620" y="585" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zF3MtkS8yYWLAlWBzxmK-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zF3MtkS8yYWLAlWBzxmK-28" target="zF3MtkS8yYWLAlWBzxmK-26">
           <mxGeometry relative="1" as="geometry">
@@ -97,8 +97,17 @@
         <mxCell id="zF3MtkS8yYWLAlWBzxmK-34" value="是否接收完毕？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="470" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="zF3MtkS8yYWLAlWBzxmK-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zF3MtkS8yYWLAlWBzxmK-37" target="zF3MtkS8yYWLAlWBzxmK-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zF3MtkS8yYWLAlWBzxmK-37" value="验证与解密数据" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="750" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zF3MtkS8yYWLAlWBzxmK-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zF3MtkS8yYWLAlWBzxmK-39" target="zF3MtkS8yYWLAlWBzxmK-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zF3MtkS8yYWLAlWBzxmK-39" value="是否完整/正确？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="250" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
