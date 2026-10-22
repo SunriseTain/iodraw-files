@@ -13,6 +13,14 @@
         <mxCell id="WSZY-K6LQU-uphaPUuTB-1" value="APP&lt;div&gt;(Android/iOS)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="100" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="WSZY-K6LQU-uphaPUuTB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WSZY-K6LQU-uphaPUuTB-2" target="WSZY-K6LQU-uphaPUuTB-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="310" />
+              <mxPoint x="60" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WSZY-K6LQU-uphaPUuTB-2" value="追踪模块&lt;div&gt;（HI3516）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="230" width="120" height="60" as="geometry" />
         </mxCell>
