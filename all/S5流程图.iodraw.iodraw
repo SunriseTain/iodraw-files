@@ -26,10 +26,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WSZY-K6LQU-uphaPUuTB-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="WSZY-K6LQU-uphaPUuTB-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="329" y="270" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="WSZY-K6LQU-uphaPUuTB-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WSZY-K6LQU-uphaPUuTB-2" target="WSZY-K6LQU-uphaPUuTB-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WSZY-K6LQU-uphaPUuTB-2" value="追踪模块&lt;div&gt;（HI3516）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="230" width="120" height="60" as="geometry" />
@@ -47,8 +45,8 @@
         <mxCell id="WSZY-K6LQU-uphaPUuTB-8" value="线刷&lt;div&gt;（飞宇上位机）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WSZY-K6LQU-uphaPUuTB-10" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="379" y="350" width="120" height="60" as="geometry" />
+        <mxCell id="WSZY-K6LQU-uphaPUuTB-10" value="云台主控&lt;div&gt;（）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
