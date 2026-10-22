@@ -51,7 +51,7 @@
         <mxCell id="WSZY-K6LQU-uphaPUuTB-10" value="云台主控&lt;div&gt;（MIMXRT1O11）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WSZY-K6LQU-uphaPUuTB-13" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="WSZY-K6LQU-uphaPUuTB-13" value="A版主控&lt;div&gt;（HC32F460）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
