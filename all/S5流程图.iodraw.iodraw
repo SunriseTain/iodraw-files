@@ -14,9 +14,9 @@
           <mxGeometry x="100" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WSZY-K6LQU-uphaPUuTB-2" value="追踪模块&lt;div&gt;（HI3516）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WSZY-K6LQU-uphaPUuTB-5" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="WSZY-K6LQU-uphaPUuTB-5" value="遥控器" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
