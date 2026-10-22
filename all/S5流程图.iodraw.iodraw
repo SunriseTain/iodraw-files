@@ -45,8 +45,14 @@
         <mxCell id="WSZY-K6LQU-uphaPUuTB-8" value="线刷&lt;div&gt;（飞宇上位机）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WSZY-K6LQU-uphaPUuTB-10" value="云台主控&lt;div&gt;（）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="WSZY-K6LQU-uphaPUuTB-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WSZY-K6LQU-uphaPUuTB-10" target="WSZY-K6LQU-uphaPUuTB-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WSZY-K6LQU-uphaPUuTB-10" value="云台主控&lt;div&gt;（MIMXRT1O11）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WSZY-K6LQU-uphaPUuTB-13" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
