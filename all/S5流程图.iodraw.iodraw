@@ -87,6 +87,9 @@
         <mxCell id="WSZY-K6LQU-uphaPUuTB-25" value="UART4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="320" y="370" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="WSZY-K6LQU-uphaPUuTB-26" value="UART2_NXP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="485" y="228" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
