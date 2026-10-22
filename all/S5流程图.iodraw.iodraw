@@ -66,6 +66,9 @@
         <mxCell id="WSZY-K6LQU-uphaPUuTB-17" value="调焦器" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="230" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="WSZY-K6LQU-uphaPUuTB-19" value="UART1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="98" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
